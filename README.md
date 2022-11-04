@@ -1,8 +1,27 @@
-### Hi there 👋
+# Hi there, I'm João 👋
 
-I'm a doctoral candidate at ETH Zürich (with an MSc in Biochemistry and a BSc in Civil Engineering) studying the epigenetic, gene expression, chromatin accessibility, and DNA methylation dynamics in pluripotent stem cells.
 
-I like to research complex systems and uncover their mechanisms. Currently, I apply computational and statistical tools to analyse next-generation sequencing data.
 
-- 🌱 I’m currently learning Machine Learning, Generalized Linear Models
-- 📫 How to reach me: joao.agostinhodesousa@hest.ethz.ch or www.linkedin.com/in/joao-agostinhodesousa
+🌱 I’m currently learning Machine Learning, Generalized Linear Models <br/>
+📫 How to reach me: joao.agostinhodesousa@hest.ethz.ch or www.linkedin.com/in/joao-agostinhodesousa
+<br clear="all" />
+<br clear="all" />
+
+<img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/9/99/ETH_Z%C3%BCrich_Logo_black.svg" /> &ensp; Currently working on my doctoral studies in **Epigenetics and Bioinformatics** :dna::computer:
+
+<img width="10%" src="https://ciencias.ulisboa.pt/sites/default/files/fcul/institucional/normas_graficas/Ciencias_UL_Azul_H.png" /> &ensp; **MSc in Biochemistry** :test_tube:
+
+<img width="10%" src="https://logos-download.com/wp-content/uploads/2020/07/Instituto_Superior_T%C3%A9cnico_Logo.png" /> &ensp; **BSc in Civil Engineering** :construction_worker:
+<br clear="all" />
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=jpadesousa&show_icons=true&theme=radical" />
+<img align="left" width="33.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpadesousa" />
+
+<br clear="all" />
+
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
