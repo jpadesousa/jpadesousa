@@ -1,8 +1,7 @@
 # Hi there, I'm João 👋
 
+I'm a PhD student interested in engineering, physics, data science, and biochemistry. Currently, most of my work is in bioinformatics.
 
-
-🌱 I’m currently learning Machine Learning, Generalized Linear Models <br/>
 📫 How to reach me: joao.agostinhodesousa@hest.ethz.ch or www.linkedin.com/in/joao-agostinhodesousa
 <br clear="all" />
 <br clear="all" />
@@ -14,8 +13,8 @@
 <img width="10%" src="https://logos-download.com/wp-content/uploads/2020/07/Instituto_Superior_T%C3%A9cnico_Logo.png" /> &ensp; **BSc in Civil Engineering** :construction_worker:
 <br clear="all" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=jpadesousa&show_icons=true&theme=radical" />
-<img align="left" width="33.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpadesousa" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=jpadesousa&show_icons=true&theme=dracula" />
+<img align="left" width="33.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpadesousa&show_icons=true&theme=dracula" />
 
 <br clear="all" />
 
