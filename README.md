@@ -1,5 +1,4 @@
-<p align=center>Welcome to <b>João Sousa</b>'s Profile 👋 </p>
-<br clear="all" />
+## Hi there, I'm João 👋
 
 **`Bioinformatician/Biochemist`**
 
