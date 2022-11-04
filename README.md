@@ -1,12 +1,14 @@
-# Hi there, I'm João 👋
+<p align=center>Welcome to <b>João Sousa</b>'s Profile 👋 </p>
+<br clear="all" />
+
+**`Bioinformatician/Biochemist`**
 
 I'm a PhD student interested in engineering, physics, data science, and biochemistry. Currently, most of my work is in bioinformatics.
 
 :envelope: joao.agostinhodesousa@hest.ethz.ch <br>
 <img width="2%" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /> www.linkedin.com/in/joao-agostinhodesousa
 <br clear="all" />
-<br clear="all" />
-
+__________________________________________
 
 <img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/9/99/ETH_Z%C3%BCrich_Logo_black.svg" /> &ensp; Currently working on my doctoral studies in **Epigenetics and Bioinformatics** :dna::computer:
 
