@@ -10,7 +10,7 @@ I'm a PhD student interested in engineering, physics, data science, and biochemi
 
 #### Things I am working on:<br>
 💻 Improving Python skills<br>
-💻 C++<br>
+💻 Learning web and mobile development<br>
 📚 Machine learning and statistical modeling<br>
 
 __________________________________________
