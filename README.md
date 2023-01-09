@@ -2,7 +2,7 @@
 
 **`Bioinformatician/Biochemist`**
 
-I'm a PhD student interested in engineering, physics, data science, and biochemistry. Currently, most of my work is in bioinformatics.
+I'm a Bioinformatician interested in engineering, physics, machine learning, data science, and biochemistry.
 
 :envelope: joao.agostinhodesousa@hest.ethz.ch <br>
 <img width="2%" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /> www.linkedin.com/in/joao-agostinhodesousa
@@ -15,7 +15,7 @@ I'm a PhD student interested in engineering, physics, data science, and biochemi
 
 __________________________________________
 
-<img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/9/99/ETH_Z%C3%BCrich_Logo_black.svg" /> &ensp; Currently working on my doctoral studies in **Epigenetics and Bioinformatics** :dna::computer:
+<img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/9/99/ETH_Z%C3%BCrich_Logo_black.svg" /> &ensp; Currently writing my disseration for the doctoral studies in **Epigenetics and Bioinformatics** :dna::computer:
 
 <img width="10%" src="https://ciencias.ulisboa.pt/sites/default/files/fcul/institucional/normas_graficas/Ciencias_UL_Azul_H.png" /> &ensp; **MSc in Biochemistry** :test_tube:
 
