@@ -9,8 +9,8 @@ I'm a PhD student interested in engineering, physics, data science, and biochemi
 <br clear="all" />
 
 #### Things I am working on:<br>
+💻 Learning C<br>
 💻 Improving Python skills<br>
-💻 Learning web and mobile development<br>
 📚 Machine learning and statistical modeling<br>
 
 __________________________________________
