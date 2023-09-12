@@ -3,7 +3,7 @@
 **`Bioinformatician`**
 
 Feel free to contact me for questions or collaborations<br>
-:envelope: jpadesousa@gmail.com <br>
+:envelope: joao.agostinhodesousa@hest.ethz.ch <br>
 <img width="2%" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /> www.linkedin.com/in/joao-agostinhodesousa
 <br clear="all" />
 
@@ -15,11 +15,11 @@ Feel free to contact me for questions or collaborations<br>
 📚 Statistical modeling<br>
 
 #### What I am learning:<br>
+📚 Machine learning<br>
 💻 C/C++<br>
 💻 Improving Python skills<br>
-📚 Machine learning<br>
 
-**Interests:** engineering, machine learning, data science, genetics, and ageing.<br>
+**Interests:** data science, machine learning, engineering, genetics, and ageing.<br>
 
 
 
