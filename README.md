@@ -7,25 +7,20 @@ Feel free to contact me for questions or collaborations<br>
 <img width="2%" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /> www.linkedin.com/in/joao-agostinhodesousa
 <br clear="all" />
 
-#### Journal articles:<br>
+#### Journal articles:
+[Epigenetic dynamics during capacitation of naïve human pluripotent stem cells](https://www.science.org/doi/full/10.1126/sciadv.adg1936) *Science Advances 2023* <br>
 [Single cell DNA methylation ageing in mouse blood](https://www.biorxiv.org/content/10.1101/2023.01.30.526343v1) *bioRxiv 2023* <br>
 [H3K18 lactylation marks tissue-specific active enhancers](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02775-y) *Genome Biology 2022*
 
-#### Current skills:<br>
+#### Areas of focus:
 💻 R / tidyverse<br>
 💻 High-performance computing<br>
 💻 Nextflow pipelines<br>
 💻 Next generation sequencing analysis<br>
 📚 Statistical modeling<br>
-
-#### What I am learning:<br>
 📚 Machine learning<br>
-💻 C/C++<br>
-💻 Improving Python skills<br>
 
 **Interests:** data science, machine learning, engineering, genetics, and ageing.<br>
-
-
 
 __________________________________________
 
