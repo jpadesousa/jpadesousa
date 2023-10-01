@@ -17,7 +17,6 @@ Feel free to contact me for questions or collaborations<br>
 💻 High-performance computing<br>
 💻 Nextflow pipelines<br>
 💻 Next generation sequencing analysis<br>
-📚 Statistical modeling<br>
 📚 Machine learning<br>
 
 **Interests:** data science, machine learning, engineering, genetics, and ageing.<br>
