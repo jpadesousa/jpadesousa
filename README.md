@@ -2,12 +2,12 @@
 
 **`Postdoctoral researcher` and `Bioinformatician`** at [<img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/9/99/ETH_Z%C3%BCrich_Logo_black.svg" />](https://ethz.ch/en)
 
-Feel free to contact me for questions or collaborations at<br>
+Feel free to contact me for questions or collaborations at:<br>
 :envelope: joao.agostinhodesousa@hest.ethz.ch <br>
 <img width="2%" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /> www.linkedin.com/in/joao-agostinhodesousa
 <br clear="all" />
 
-#### Journal articles:
+**Journal articles:**<br>
 [Epigenetic dynamics during capacitation of naïve human pluripotent stem cells](https://www.science.org/doi/full/10.1126/sciadv.adg1936) *Science Advances 2023* <br>
 [Single cell DNA methylation ageing in mouse blood](https://www.biorxiv.org/content/10.1101/2023.01.30.526343v1) *bioRxiv 2023* <br>
 [H3K18 lactylation marks tissue-specific active enhancers](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02775-y) *Genome Biology 2022*
