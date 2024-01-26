@@ -1,6 +1,6 @@
 # Hi there, I'm João 👋
 
-**`Postdoctoral researcher`/`Bioinformatician`** at [<img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/9/99/ETH_Z%C3%BCrich_Logo_black.svg" />](https://ethz.ch/en)
+**`Postdoctoral researcher` and `Bioinformatician`** at [<img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/9/99/ETH_Z%C3%BCrich_Logo_black.svg" />](https://ethz.ch/en)
 
 Feel free to contact me for questions or collaborations at<br>
 :envelope: joao.agostinhodesousa@hest.ethz.ch <br>
@@ -14,7 +14,7 @@ Feel free to contact me for questions or collaborations at<br>
 
 __________________________________________
 
-[<img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/9/99/ETH_Z%C3%BCrich_Logo_black.svg" />](https://ethz.ch/en) &ensp; **Epigenetics and Bioinformatics** Doctorate
+[<img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/9/99/ETH_Z%C3%BCrich_Logo_black.svg" />](https://ethz.ch/en) &ensp; **Epigenetics and Bioinformatics** PhD
 
 [<img width="10%" src="https://ciencias.ulisboa.pt/sites/default/files/fcul/institucional/normas_graficas/Ciencias_UL_Azul_H.png" />](https://ciencias.ulisboa.pt/en) &ensp; **Biochemistry** MSc
 
