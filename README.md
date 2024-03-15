@@ -7,7 +7,7 @@ Feel free to contact me for questions or collaborations at:<br>
 <img width="2%" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /> www.linkedin.com/in/joao-agostinhodesousa
 <br clear="all" />
 
-**Journal articles:**<br>
+**Publications:**<br>
 [Comparative analysis of mouse strains for in vivo reprogramming](https://doi.org/10.1101/2024.03.08.584074) *bioRxiv 2024* <br>
 [Developmental progression continues during embryonic diapause in the roe deer](https://www.nature.com/articles/s42003-024-05944-w) *Communications biology 2024* <br>
 [Epigenetic dynamics during capacitation of naïve human pluripotent stem cells](https://www.science.org/doi/full/10.1126/sciadv.adg1936) *Science Advances 2023* <br>
