@@ -1,6 +1,6 @@
 # Hi there, I'm João 👋
 
-**`Postdoctoral researcher` and `Bioinformatician`** at [<img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/9/99/ETH_Z%C3%BCrich_Logo_black.svg" />](https://ethz.ch/en)
+**`Bioinformatician`** and **`Postdoctoral researcher`** at [<img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/9/99/ETH_Z%C3%BCrich_Logo_black.svg" />](https://ethz.ch/en)
 
 Feel free to contact me for questions or collaborations at:<br>
 :envelope: joao.agostinhodesousa@hest.ethz.ch <br>
