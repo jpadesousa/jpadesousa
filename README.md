@@ -21,3 +21,6 @@ __________________________________________
 [<img width="10%" src="https://ciencias.ulisboa.pt/sites/default/files/fcul/institucional/normas_graficas/Ciencias_UL_Azul_H.png" />](https://ciencias.ulisboa.pt/en) &ensp; **Biochemistry** MSc
 
 [<img width="10%" src="https://logos-download.com/wp-content/uploads/2020/07/Instituto_Superior_T%C3%A9cnico_Logo.png" />](https://tecnico.ulisboa.pt/en/) &ensp; **Civil Engineering** BSc
+
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=jpadesousa&show_icons=true&theme=dracula" />
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpadesousa&layout=compact&show_icons=true&theme=dracula" />
