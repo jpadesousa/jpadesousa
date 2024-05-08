@@ -8,6 +8,7 @@ Feel free to contact me for questions or collaborations at:<br>
 <br clear="all" />
 
 **Publications:**<br>
+[In vivo reprogramming of Caenorhabditis elegans leads to heterogeneous effects on lifespan](https://doi.org/10.1101/2024.05.03.592330) *bioRxiv 2024* <br>
 [Comparative analysis of mouse strains for in vivo reprogramming](https://doi.org/10.1101/2024.03.08.584074) *bioRxiv 2024* <br>
 [Developmental progression continues during embryonic diapause in the roe deer](https://www.nature.com/articles/s42003-024-05944-w) *Communications biology 2024* <br>
 [Epigenetic dynamics during capacitation of naïve human pluripotent stem cells](https://www.science.org/doi/full/10.1126/sciadv.adg1936) *Science Advances 2023* <br>
