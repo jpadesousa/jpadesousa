@@ -8,6 +8,7 @@ Feel free to contact me for questions or collaborations at:<br>
 <br clear="all" />
 
 **Publications:**<br>
+[Evaluating the connection between diet quality, EpiNutrient intake and epigenetic age: an observational study](https://www.sciencedirect.com/science/article/pii/S0002916524007305) *The American Journal of Clinical Nutrition 2024* <br>
 [scEpiAge: an age predictor highlighting single-cell ageing heterogeneity in mouse blood](https://www.nature.com/articles/s41467-024-51833-5) *Nature communications 2024* <br>
 [In vivo reprogramming of Caenorhabditis elegans leads to heterogeneous effects on lifespan](https://doi.org/10.1101/2024.05.03.592330) *bioRxiv 2024* <br>
 [Comparative analysis of mouse strains for in vivo reprogramming](https://doi.org/10.1101/2024.03.08.584074) *bioRxiv 2024* <br>
