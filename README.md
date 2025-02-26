@@ -1,6 +1,7 @@
 **`Bioinformatician`** and **`Postdoctoral researcher`** at [<img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/9/99/ETH_Z%C3%BCrich_Logo_black.svg" />](https://ethz.ch/en)
 
 **Publications:**<br>
+[Inhibition of PRC2 enables self-renewal of blastoid-competent naive pluripotent stem cells from chimpanzee](https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00041-4) *Cell Stem Cell 2025* <br>
 [Evaluating the connection between diet quality, EpiNutrient intake and epigenetic age: an observational study](https://www.sciencedirect.com/science/article/pii/S0002916524007305) *The American Journal of Clinical Nutrition 2024* <br>
 [scEpiAge: an age predictor highlighting single-cell ageing heterogeneity in mouse blood](https://www.nature.com/articles/s41467-024-51833-5) *Nature communications 2024* <br>
 [In vivo reprogramming of Caenorhabditis elegans leads to heterogeneous effects on lifespan](https://doi.org/10.1101/2024.05.03.592330) *bioRxiv 2024* <br>
