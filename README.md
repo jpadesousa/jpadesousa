@@ -1,4 +1,4 @@
-**`Bioinformatician`** and **`Postdoctoral researcher`** at [<img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/9/99/ETH_Z%C3%BCrich_Logo_black.svg" />](https://ethz.ch/en)
+**`Systems Engineer Scientific Computing`** at [<img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Paul_Scherrer_Institute_Logo.svg" />](https://www.psi.ch/en)
 
 **Publications:**<br>
 [Inhibition of PRC2 enables self-renewal of blastoid-competent naive pluripotent stem cells from chimpanzee](https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00041-4) *Cell Stem Cell 2025* <br>
